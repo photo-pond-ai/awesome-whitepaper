@@ -13,7 +13,7 @@ Collection of crypto project ICO whitepapers
 |Pocketful of Quarters | | https://downloads.pocketfulofquarters.com/POQ_Whitepaper_v3.0.pdf, https://www.sec.gov/corpfin/pocketful-quarters-inc-072519-2a1 | [pocketful](https://pocketfulofquarters.com/home) |
 |Blockstack ||https://gaia.blockstack.org/hub/1AxyPunHHAHiEffXWESKfbvmBpGQv138Fp/stacks.pdf | [stack.io](https://www.stacks.co/) |
 |TON||https://d340lr3764rrcr.cloudfront.net/purchase_agreement/block.one+-+EOS+Token+Purchase+Agreement+-+September+4%2C+2017.pdf |[ton.org](https://ton.org/)|
-|EOS| https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md, https://cointelegraph.com/news/sec-reaches-24-million-settlement-with-eos-parent-firm-blockone | [eos.io](https://eos.io/)|
+|EOS|| https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md, https://cointelegraph.com/news/sec-reaches-24-million-settlement-with-eos-parent-firm-blockone | [eos.io](https://eos.io/)|
 |register ICO||| https://medium.com/@cryptolawyersco/can-you-register-your-ico-with-sec-ddea3f9be926 |
 |||| https://www.velvetech.com/blog/how-to-launch-a-successful-ico/ |
 |||| https://medium.com/swlh/how-to-launch-an-initial-coin-offering-7fa000ba3f59 |
