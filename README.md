@@ -9,3 +9,6 @@ Collection of crypto project ICO whitepapers
 |Bankera| FIL| [Bankera.pdf](https://cryptorating.eu/whitepapers/Bankera/Bankera_whitepaper.pdf) | [bankera.com](https://bankera.com/)|
 |TE-Food| FIL| [te-food.pdf](https://www.allcryptowhitepapers.com/te-food-whitepaper/) | [te-food.com](https://te-food.com/)|
 |Aternity| FIL| [aternity.pdf](https://whitepaper.io/document/14/aeternity-whitepaper) | [aternity.com](https://aeternity.com/)|
+
+
+ [register ICO](https://medium.com/@cryptolawyersco/can-you-register-your-ico-with-sec-ddea3f9be926) 
