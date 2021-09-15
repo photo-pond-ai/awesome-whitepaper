@@ -11,8 +11,8 @@ Collection of crypto project ICO whitepapers
 |Aternity| FIL| [aternity.pdf](https://whitepaper.io/document/14/aeternity-whitepaper) | [aternity.com](https://aeternity.com/)|
 
 
- [register ICO] |
- https://medium.com/@cryptolawyersco/can-you-register-your-ico-with-sec-ddea3f9be926 |
- https://www.velvetech.com/blog/how-to-launch-a-successful-ico/ |
+ [register ICO] <br/>
+ https://medium.com/@cryptolawyersco/can-you-register-your-ico-with-sec-ddea3f9be926 <br/>
+ https://www.velvetech.com/blog/how-to-launch-a-successful-ico/ <br/>
  https://medium.com/swlh/how-to-launch-an-initial-coin-offering-7fa000ba3f59
 
