@@ -13,4 +13,5 @@ Collection of crypto project ICO whitepapers
 |||| https://www.velvetech.com/blog/how-to-launch-a-successful-ico/ |
 |||| https://medium.com/swlh/how-to-launch-an-initial-coin-offering-7fa000ba3f59 |
 |||| https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp |
+|||| https://cointelegraph.com/news/the-death-of-the-ico-has-the-us-sec-closed-the-global-window-on-new-tokens |
 |SAFT||https://saftproject.com/static/SAFT-Project-Whitepaper.pdf|https://saftproject.com/| 
