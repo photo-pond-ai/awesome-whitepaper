@@ -10,11 +10,12 @@ Collection of crypto project ICO whitepapers
 | Ethereum| ETH| [ethereum_whitepaper](https://ethereum.org/en/whitepaper/) | [ethereum.org](https://ethereum.org/)|
 |EOS| EOS | [eos_TechnicalWhitePaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/)|
 |File Coin| FIL| [filecoin.pdf](filecoin.pdf) | [filecoin.io](https://filecoin.io/)|
+| Simple Agreement for Future Tokens |SAFT|[SAFT-Project-Whitepaper](https://saftproject.com/static/SAFT-Project-Whitepaper.pdf)|https://saftproject.com/| 
 |TE-Food| TONE | [te-food-whitepaper](https://www.allcryptowhitepapers.com/te-food-whitepaper/) | [te-food.com](https://te-food.com/)|
+|Telegram Open Network| TON| [TON Whitepaper](https://ton.org/ton.pdf) |[ton.org](https://ton.org/)|
 |Turnkey Jet||[Turnkey Jet Whitepaper](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1-incoming.pdf)| [turnkeyjet.com](https://www.turnkeyjet.com/) | 
 |Pocketful of Quarters | | [whitepaper](https://downloads.pocketfulofquarters.com/POQ_Whitepaper_v3.0.pdf), [sec](https://www.sec.gov/corpfin/pocketful-quarters-inc-072519-2a1) | [pocketful](https://pocketfulofquarters.com/home) |
-|Telegram Open Network| TON| [TON Whitepaper](https://ton.org/ton.pdf) |[ton.org](https://ton.org/)|
-| Simple Agreement for Future Tokens |SAFT|[SAFT-Project-Whitepaper](https://saftproject.com/static/SAFT-Project-Whitepaper.pdf)|https://saftproject.com/| 
+
 
 
 # Notes
