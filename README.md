@@ -8,6 +8,7 @@ Collection of crypto project ICO whitepapers
 |Bankera|BNK| [Bankera_whitepaper](https://cryptorating.eu/whitepapers/Bankera/Bankera_whitepaper.pdf) | [bankera.com](https://bankera.com/)|
 |Blockstack | STX | [blockstack_whitepaper](https://gaia.blockstack.org/hub/1AxyPunHHAHiEffXWESKfbvmBpGQv138Fp/stacks.pdf) | [stack.io](https://www.stacks.co/) |
 | Ethereum| ETH| [ethereum_whitepaper](https://ethereum.org/en/whitepaper/) | [ethereum.org](https://ethereum.org/)|
+| Flow| | [flow_whitepaper](https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6c23fa870a5d0beb0752c6_Flow%20Primer%20(1).pdf) | [onflow.org](https://www.onflow.org/primer)|
 |EOS| EOS | [eos_TechnicalWhitePaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/)|
 |File Coin| FIL| [filecoin.pdf](filecoin.pdf) | [filecoin.io](https://filecoin.io/)|
 | Simple Agreement for Future Tokens |SAFT|[SAFT-Project-Whitepaper](https://saftproject.com/static/SAFT-Project-Whitepaper.pdf)|https://saftproject.com/| 
