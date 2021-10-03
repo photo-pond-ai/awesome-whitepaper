@@ -25,3 +25,9 @@ Collection of crypto project ICO whitepapers
 - https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp
 - https://cointelegraph.com/news/the-death-of-the-ico-has-the-us-sec-closed-the-global-window-on-new-tokens
 - [Register ICO](https://medium.com/@cryptolawyersco/can-you-register-your-ico-with-sec-ddea3f9be926)
+
+# Blockchain for licensing
+- https://www.itassetmanagement.net/2019/05/27/blockchain-for-slm/
+- https://ifrro.org/sites/default/files/atc_stratos_tzoannos_oct2018.pdf
+- https://techcrunch.com/2017/04/26/spotify-acquires-blockchain-startup-mediachain-to-solve-musics-attribution-problem/
+- https://academic.oup.com/ijlit/article/26/4/311/5106727
