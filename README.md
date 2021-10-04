@@ -16,7 +16,7 @@ Collection of crypto project ICO whitepapers
 |Telegram Open Network| TON| [TON Whitepaper](https://ton.org/ton.pdf) |[ton.org](https://ton.org/)|
 |Turnkey Jet||[Turnkey Jet Whitepaper](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1-incoming.pdf)| [turnkeyjet.com](https://www.turnkeyjet.com/) | 
 |Pocketful of Quarters | | [whitepaper](https://downloads.pocketfulofquarters.com/POQ_Whitepaper_v3.0.pdf), [sec](https://www.sec.gov/corpfin/pocketful-quarters-inc-072519-2a1) | [pocketful](https://pocketfulofquarters.com/home) |
-
+|BitDAO | | [whitepaper](https://docs.bitdao.io/litepaper-1/governance-overview) | [bitdao.io](https://www.bitdao.io/) |
 
 
 # Notes
