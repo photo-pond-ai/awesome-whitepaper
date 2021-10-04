@@ -17,7 +17,10 @@ Collection of crypto project ICO whitepapers
 |Turnkey Jet||[Turnkey Jet Whitepaper](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1-incoming.pdf)| [turnkeyjet.com](https://www.turnkeyjet.com/) | 
 |Pocketful of Quarters | | [whitepaper](https://downloads.pocketfulofquarters.com/POQ_Whitepaper_v3.0.pdf), [sec](https://www.sec.gov/corpfin/pocketful-quarters-inc-072519-2a1) | [pocketful](https://pocketfulofquarters.com/home) |
 |BitDAO | | [whitepaper](https://docs.bitdao.io/litepaper-1/governance-overview) | [bitdao.io](https://www.bitdao.io/) |
-
+|StartFi | | [whitepaper](https://drive.google.com/file/d/1bov3bIbGeGGkH59BKH0LVRXP3QDHTCFQ/view) | [bitdao.io](https://startfi.io/) |
+|Impossible Finance | | [whitepaper](https://gateway.pinata.cloud/ipfs/QmWdoJWPDNgsmwCarij5k5CLyknsXmKX5wRV1LMQ3oqSuN/Impossible%20Finance%20IDIA%20Whitepaper.pdf) | [impossible.finance](https://impossible.finance/) |
+|Fandise | | [whitepaper](https://ocs-pl.oktawave.com/v1/AUTH_630f86eaa3774cda8593b8a9710b1aa4/lte/mrgugu/2021/0526/20210526131656-Fanadise_WhitePaper-3.pdf) | [fanadise.com](https://fanadise.com/) |
+|Hodooi | | [whitepaper]() | [hodooi.com](https://app.hodooi.com/en) |
 
 # Notes
 - https://www.velvetech.com/blog/how-to-launch-a-successful-ico/
