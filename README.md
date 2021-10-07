@@ -21,6 +21,11 @@ Collection of crypto project ICO whitepapers
 |Impossible Finance | | [whitepaper](https://gateway.pinata.cloud/ipfs/QmWdoJWPDNgsmwCarij5k5CLyknsXmKX5wRV1LMQ3oqSuN/Impossible%20Finance%20IDIA%20Whitepaper.pdf) | [impossible.finance](https://impossible.finance/) |
 |Fandise | | [whitepaper](https://ocs-pl.oktawave.com/v1/AUTH_630f86eaa3774cda8593b8a9710b1aa4/lte/mrgugu/2021/0526/20210526131656-Fanadise_WhitePaper-3.pdf) | [fanadise.com](https://fanadise.com/) |
 |Hodooi | | [whitepaper]() | [hodooi.com](https://app.hodooi.com/en) |
+|Swarm | | [whitepaper](https://docs.ethswarm.org/swarm-whitepaper.pdf) | [ethswarm.org](https://www.ethswarm.org/) |
+|Boson| | [whitepaper](https://assets.website-files.com/6058b6a3587b6e155196ebbb/60b662bdf4f8a13d7d75d25b_Boson_Protocol_Whitepaper_1_1_Nov.pdf) | [bosonprotocol.io](https://www.bosonprotocol.io/) |
+|Rally | | [whitepaper](https://wiki.rally.io/rally-io/) | [Rally.io](https://rally.io/) |
+| | | [whitepaper]() | []() |
+| | | [whitepaper]() | []() |
 
 # Notes
 - https://www.velvetech.com/blog/how-to-launch-a-successful-ico/
@@ -34,3 +39,8 @@ Collection of crypto project ICO whitepapers
 - https://ifrro.org/sites/default/files/atc_stratos_tzoannos_oct2018.pdf
 - https://techcrunch.com/2017/04/26/spotify-acquires-blockchain-startup-mediachain-to-solve-musics-attribution-problem/
 - https://academic.oup.com/ijlit/article/26/4/311/5106727
+- https://www.bernstein.io/
+- https://binded.com/
+- https://www.pixsy.com/
+- https://99designs.com/blog/freelancing/blockchain-protect-intellectual-property/
+- https://www.coindesk.com/policy/2021/06/04/china-launches-copyright-protection-blockchain/
