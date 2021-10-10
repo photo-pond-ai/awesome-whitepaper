@@ -44,3 +44,7 @@ Collection of crypto project ICO whitepapers
 - https://www.pixsy.com/
 - https://99designs.com/blog/freelancing/blockchain-protect-intellectual-property/
 - https://www.coindesk.com/policy/2021/06/04/china-launches-copyright-protection-blockchain/
+
+# IDO
+- https://cointelegraph.com/news/to-ico-or-to-ido-that-is-the-question
+- https://cryptopotato.com/what-is-an-initial-dex-offering-ido-how-is-it-different-than-ico-ieo/
