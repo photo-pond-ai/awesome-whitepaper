@@ -24,7 +24,7 @@ Collection of crypto project ICO whitepapers
 |Swarm | | [whitepaper](https://docs.ethswarm.org/swarm-whitepaper.pdf) | [ethswarm.org](https://www.ethswarm.org/) |
 |Boson| | [whitepaper](https://assets.website-files.com/6058b6a3587b6e155196ebbb/60b662bdf4f8a13d7d75d25b_Boson_Protocol_Whitepaper_1_1_Nov.pdf) | [bosonprotocol.io](https://www.bosonprotocol.io/) |
 |Rally | | [whitepaper](https://wiki.rally.io/rally-io/) | [Rally.io](https://rally.io/) |
-| | | [whitepaper]() | []() |
+|Play&Like | | [whitepaper](https://playandlike.com/PAL_Whitepaper%20Policy.pdf) | [playandlike.com](https://playandlike.com/index.html) |
 | | | [whitepaper]() | []() |
 
 # Notes
