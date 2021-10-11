@@ -25,6 +25,11 @@ Collection of crypto project ICO whitepapers
 |Boson| | [whitepaper](https://assets.website-files.com/6058b6a3587b6e155196ebbb/60b662bdf4f8a13d7d75d25b_Boson_Protocol_Whitepaper_1_1_Nov.pdf) | [bosonprotocol.io](https://www.bosonprotocol.io/) |
 |Rally | | [whitepaper](https://wiki.rally.io/rally-io/) | [Rally.io](https://rally.io/) |
 |Play&Like | | [whitepaper](https://playandlike.com/PAL_Whitepaper%20Policy.pdf) | [playandlike.com](https://playandlike.com/index.html) |
+|Bitbook | | [whitepaper](https://bitbook.net/hubfs/BitBook-Whitepaper.pdf) | [bitbook.network](https://www.bitbook.network/) |
+|Derace | | [whitepaper](https://derace.gitbook.io/derace/) | [derace.com](https://www.derace.com/) |
+|Studentcoin | | [whitepaper](https://www.studentcoin.org/whitepaper) | [studentcoin.org](https://www.studentcoin.org/) |
+| | | [whitepaper]() | []() |
+| | | [whitepaper]() | []() |
 | | | [whitepaper]() | []() |
 
 # Notes
