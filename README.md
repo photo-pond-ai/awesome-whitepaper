@@ -28,7 +28,7 @@ Collection of crypto project ICO whitepapers
 |Bitbook | | [whitepaper](https://bitbook.net/hubfs/BitBook-Whitepaper.pdf) | [bitbook.network](https://www.bitbook.network/) |
 |Derace | | [whitepaper](https://derace.gitbook.io/derace/) | [derace.com](https://www.derace.com/) |
 |Studentcoin | | [whitepaper](https://www.studentcoin.org/whitepaper) | [studentcoin.org](https://www.studentcoin.org/) |
-| | | [whitepaper]() | []() |
+|Coconft |Part of Rarible | [whitepaper]() | [coconft.com](https://coconft.com/) |
 | | | [whitepaper]() | []() |
 | | | [whitepaper]() | []() |
 
@@ -50,6 +50,8 @@ Collection of crypto project ICO whitepapers
 - https://99designs.com/blog/freelancing/blockchain-protect-intellectual-property/
 - https://www.coindesk.com/policy/2021/06/04/china-launches-copyright-protection-blockchain/
 - https://serto.medium.com/verifiable-authorship-for-the-150-million-nft-art-market-8a7affe90186
+- https://www.artnome.com/news/2018/3/4/how-blockchain-will-change-photography
+
 
 # IDO
 - https://cointelegraph.com/news/to-ico-or-to-ido-that-is-the-question
