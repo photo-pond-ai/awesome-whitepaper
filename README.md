@@ -51,6 +51,7 @@ Collection of crypto project ICO whitepapers
 - https://www.coindesk.com/policy/2021/06/04/china-launches-copyright-protection-blockchain/
 - https://serto.medium.com/verifiable-authorship-for-the-150-million-nft-art-market-8a7affe90186
 - https://www.artnome.com/news/2018/3/4/how-blockchain-will-change-photography
+- https://pdnonline.com/gear/the-promise-and-pitfalls-of-photography-on-the-blockchain/
 
 
 # IDO
