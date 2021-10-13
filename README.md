@@ -29,7 +29,7 @@ Collection of crypto project ICO whitepapers
 |Derace | | [whitepaper](https://derace.gitbook.io/derace/) | [derace.com](https://www.derace.com/) |
 |Studentcoin | | [whitepaper](https://www.studentcoin.org/whitepaper) | [studentcoin.org](https://www.studentcoin.org/) |
 |Coconft |Part of Rarible | [whitepaper]() | [coconft.com](https://coconft.com/) |
-| | | [whitepaper]() | []() |
+|Wemark | | [whitepaper](https://www.wemark.com/whitepaper.pdf) | [wemark.com](https://www.wemark.com/whitepaper.pdf) |
 | | | [whitepaper]() | []() |
 
 # Notes
@@ -52,6 +52,8 @@ Collection of crypto project ICO whitepapers
 - https://serto.medium.com/verifiable-authorship-for-the-150-million-nft-art-market-8a7affe90186
 - https://www.artnome.com/news/2018/3/4/how-blockchain-will-change-photography
 - https://pdnonline.com/gear/the-promise-and-pitfalls-of-photography-on-the-blockchain/
+- https://medium.com/wemark-stories/wemark-is-shutting-down-4348e41340e
+- https://storiusmag.com/fixing-photography-593e97aa2417
 
 
 # IDO
