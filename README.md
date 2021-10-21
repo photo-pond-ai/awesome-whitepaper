@@ -55,7 +55,18 @@ Collection of crypto project ICO whitepapers
 - https://medium.com/wemark-stories/wemark-is-shutting-down-4348e41340e
 - https://storiusmag.com/fixing-photography-593e97aa2417
 
-
 # IDO
 - https://cointelegraph.com/news/to-ico-or-to-ido-that-is-the-question
 - https://cryptopotato.com/what-is-an-initial-dex-offering-ido-how-is-it-different-than-ico-ieo/
+
+# NFT marketplace for photographers
+- https://niftygateway.com/marketplace
+- https://ephimera.com/marketplace
+- https://foundation.app/explore
+- https://www.hicetnunc.xyz/
+- https://opensea.io/
+- https://app.uniqueone.photo/
+- https://knownorigin.io/
+- https://rarible.com/
+- https://mintable.app/
+- https://superrare.com/
