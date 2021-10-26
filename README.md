@@ -38,6 +38,7 @@ Collection of crypto project ICO whitepapers
 - https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp
 - https://cointelegraph.com/news/the-death-of-the-ico-has-the-us-sec-closed-the-global-window-on-new-tokens
 - [Register ICO](https://medium.com/@cryptolawyersco/can-you-register-your-ico-with-sec-ddea3f9be926)
+- https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3
 
 # Blockchain for licensing
 - https://www.itassetmanagement.net/2019/05/27/blockchain-for-slm/
