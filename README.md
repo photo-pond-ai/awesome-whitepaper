@@ -30,6 +30,7 @@ Collection of crypto project ICO whitepapers
 |Studentcoin | | [whitepaper](https://www.studentcoin.org/whitepaper) | [studentcoin.org](https://www.studentcoin.org/) |
 |Coconft |Part of Rarible | [whitepaper]() | [coconft.com](https://coconft.com/) |
 |Wemark | | [whitepaper](https://www.wemark.com/whitepaper.pdf) | [wemark.com](https://www.wemark.com/whitepaper.pdf) |
+|Rallyon | | [whitepaper]() | [rallyon.com](https://www.rallyon.com/blog/community-owned-ecommerce) |
 | | | [whitepaper]() | []() |
 
 # Notes
